@@ -5,6 +5,7 @@ Simulates power traces during AES SubBytes operation and uses
 a Multi-Layer Perceptron (MLP) to recover the secret key byte.
 
 Author: Anandhu Chandran
+Student ID: GH1050827
 Course: M542 Cryptology - Gisma University of Applied Sciences
 """
 
