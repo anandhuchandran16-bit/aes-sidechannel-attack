@@ -15,7 +15,7 @@ AttackTargetLeakage ModelRiskPower Analysis (SCA)AES SubBytesHamming Weight🔴 
 ## Repository Structure
 aes-sidechannel-attack/
 
-├── Aes_sidechannel_attack.py             Neural network side-channel attack 
+├── AES_SideChannel_Attack.py             Neural network side-channel attack 
 
 Implementation
 
