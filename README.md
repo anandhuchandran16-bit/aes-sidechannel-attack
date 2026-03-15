@@ -13,7 +13,7 @@ The following attack is studied, implemented, and analysed:
 AttackTargetLeakage ModelRiskPower Analysis (SCA)AES SubBytesHamming Weight🔴 Critical
 
 ## Repository Structure
-aes-sidechannel-attack/
+AES-SideChannel-Attack/
 
 ├── AES_SideChannel_Attack.py             Neural network side-channel attack 
 
