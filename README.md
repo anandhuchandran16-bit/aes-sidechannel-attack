@@ -17,16 +17,7 @@ aes-sidechannel-attack/
 
 ├── aes_sidechannel_attack.py             Neural network side-channel attack 
 
-
-
-
-
-
 implementation
-
-
-
-
 
 └── README.md
 
