@@ -1,7 +1,10 @@
 # M542 Cryptology - AES Side-Channel Attack Using Neural Networks  
-**Institution:** Gisma University of Applied Sciences
+**Institution:** Gisma University of Applied Sciences 
+
 **Department:** Computer and Data Sciences
+
 **Module:** M542 Cryptology | Semester: Winter 2026
+
 **Author:** Anandhu Chandran | GitHub: anandhuchandran16-bit
 
 ## Project Overview
@@ -11,7 +14,8 @@ AttackTargetLeakage ModelRiskPower Analysis (SCA)AES SubBytesHamming Weight🔴 
 
 ## Repository Structure
 aes-sidechannel-attack/
-├── aes_sidechannel_attack.py    # Neural network side-channel attack implementation
+├── aes_sidechannel_attack.py   
+# Neural network side-channel attack implementation
 └── README.md
 
  ## Tools Used
